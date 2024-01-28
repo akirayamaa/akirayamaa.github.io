@@ -1,0 +1,12 @@
+p {
+    font-size: 24px;
+  }
+  
+  .text-bold {
+    font-weight: inherit;
+    text-align: center;
+  }
+  
+  .text-dark {
+    color: #333333;
+  }
